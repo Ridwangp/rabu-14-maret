@@ -1,0 +1,5 @@
+1.buat folder nya
+2. klik kanan pada direktornya dan open in command prompt
+3. lalu ketikkan npm -init
+4. isi datanya 
+5. setela itu npm install bcryptjs --save, supaya bisa masuk ke package json
